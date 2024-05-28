@@ -58,7 +58,7 @@ This project implements a Counter smart contract on Starknet with an integrated 
 ## Contract Address
 
 The deployed contract address on Starknet testnet is: 
-
+- [Contract Address](https://sepolia.starkscan.co/contract/0x062a13f4b815ac85ebb6a73fcd8a4ffc46a6e375c59861b2631e49edc9e99e40)
 ```
 0x062a13f4b815ac85ebb6a73fcd8a4ffc46a6e375c59861b2631e49edc9e99e40
 ```
